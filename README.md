@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🗳️ Online Voting App | DevOps Deployment Guide 🚀
 
 A modern, scalable, and secure online voting application deployed using DevOps best practices.  
