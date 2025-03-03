@@ -20,7 +20,7 @@ A modern, scalable, and secure online voting application deployed using DevOps b
 
 ## 🛠️ Prerequisites
 1. Docker installed: [Get Docker](https://docs.docker.com/get-docker/)
-2. Kubernetes cluster (Minikube/k3s): [Install Minikube](https://minikube.sigs.k8s.io/docs/start/) | [Install k3s](https://k3s.io/)
+2. Kubernetes cluster (kind): https://kind.sigs.k8s.io/docs/user/quick-start/
 3. `kubectl` CLI: [Install kubectl](https://kubernetes.io/docs/tasks/tools/)
 4. ArgoCD CLI: [Install ArgoCD CLI](https://argo-cd.readthedocs.io/en/stable/cli_installation/)
 5. Git: [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
