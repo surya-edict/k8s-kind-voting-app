@@ -158,9 +158,3 @@ kubectl port-forward svc/voting-frontend-svc -n voting-app 3000:80
 - Backup/Restore with Velero
 
 ---
-
-🙌 **Contributions Welcome!**  
-📄 **License**: MIT
-``` 
-
-This README provides a comprehensive guide with emojis for visual clarity and DevOps-focused details. Adjust image names, URLs, and registry paths as needed!
